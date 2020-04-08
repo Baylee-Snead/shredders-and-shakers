@@ -1,0 +1,182 @@
+body .edit-post-visual-editor,
+body .edit-post-visual-editor p {
+	font-family: "Karla", sans-serif;
+	font-weight: 400;
+}
+
+body .edit-post-visual-editor,
+body .edit-post-visual-editor p {
+	font-size: 16px;
+}
+
+body .edit-post-visual-editor,
+body .edit-post-visual-editor p,
+body .editor-rich-text__tinymce.mce-content-body {
+	line-height: 1.625;
+}
+
+body .edit-post-visual-editor ins,
+body .edit-post-visual-editor mark {
+	background-color: #fff9c0;
+	text-decoration: none;
+}
+
+body .editor-post-title .editor-post-title__input,
+body .wp-block-heading h1,
+body .wp-block-heading h2,
+body .wp-block-heading h3,
+body .wp-block-heading h4,
+body .wp-block-heading h5,
+body .wp-block-heading h6,
+body .wp-block-cover-image .wp-block-cover-image-text,
+body .wp-block-cover-image h2,
+body .wp-block-pullquote,
+body .wp-block-pullquote p,
+body .wp-block-quote,
+body .wp-block-quote p {
+	font-family: "Oswald", serif;
+	font-weight: 400;
+}
+
+body .wp-block-heading h1,
+body .wp-block-heading h2,
+body .wp-block-heading h3,
+body .wp-block-heading h4,
+body .wp-block-heading h5,
+body .wp-block-heading h6,
+body .wp-block-pullquote,
+body .wp-block-quote,
+body .wp-block-quote.is-large p,
+body .wp-block-quote.is-style-large p {
+	color: #262626;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.5;
+}
+
+body .editor-post-title .editor-post-title__input,
+body .wp-block-heading h1 {
+	font-size: 42px;
+	letter-spacing: .1em;
+}
+
+body .wp-block-cover-image .wp-block-cover-image-text,
+body .wp-block-heading h2,
+body .wp-block-quote.is-large p,
+body .wp-block-quote.is-style-large p {
+	font-size: 36px;
+}
+
+body .wp-block-cover-image .wp-block-cover-image-text,
+body .wp-block-heading h2 {
+	letter-spacing: .1em;
+}
+
+body .wp-block-heading h3,
+body .wp-block-pullquote,
+body .wp-block-pullquote p,
+body .wp-block-quote,
+body .wp-block-quote p {
+	font-size: 30px;
+}
+
+body .wp-block-heading h4 {
+	font-size: 27px;
+}
+
+body .wp-block-heading h5 {
+	font-size: 21px;
+}
+
+body .wp-block-heading h6 {
+	font-size: 18px;
+}
+
+body .wp-block-separator,
+body .wp-block-separator.is-style-wide {
+	border-bottom-width: 2px;
+}
+
+body .wp-block-separator {
+	margin-top: 3.25em;
+	margin-bottom: 3.25em;
+	border-bottom-color: #262626;
+	border-bottom-color: rgba(38, 38, 38, .1);
+}
+
+body .wp-block-separator:not(.is-style-wide) {
+	max-width: 100px;
+}
+
+body .wp-block-separator.is-style-dots {
+	height: 0;
+	border-bottom: 2px dotted #262626;
+	border-bottom: 2px dotted rgba(38, 38, 38, .1);
+	background-color: transparent;
+}
+
+body .wp-block-separator.is-style-dots:before {
+	content: none;
+}
+
+body .wp-block-quote,
+body .wp-block-pullquote,
+body .wp-block-freeform.core-blocks-rich-text__tinymce blockquote {
+	color: inherit;
+}
+
+body .wp-block-pullquote,
+body .wp-block-quote:not(.is-large):not(.is-style-large),
+body .wp-block-quote.is-large,
+body .wp-block-quote.is-style-large,
+body .wp-block-freeform.core-blocks-rich-text__tinymce blockquote {
+	border: 0;
+	padding: 0 0 0 2em;
+	margin: 0;
+	text-align: left;
+}
+
+body.rtl .wp-block-pullquote,
+body.rtl .wp-block-quote:not(.is-large):not(.is-style-large),
+body.rtl .wp-block-quote.is-large,
+body.rtl .wp-block-quote.is-style-large,
+body.rtl .wp-block-freeform.core-blocks-rich-text__tinymce blockquote {
+	text-align: right;
+}
+
+body .wp-block-pullquote > .editor-rich-text p:last-of-type,
+body .wp-block-quote > .editor-rich-text p:last-of-type {
+	margin-bottom: 0;
+}
+
+body .wp-block-pullquote cite,
+body .wp-block-pullquote footer,
+body .wp-block-quote cite,
+body .wp-block-quote footer {
+	margin-top: .625em;
+	color: inherit;
+	font-size: 21px;
+	text-transform: none;
+	font-style: normal;
+	opacity: .5;
+}
+
+body .wp-block-pullquote:before,
+body .wp-block-quote:before {
+	position: absolute;
+	top: 9px;
+	left: 15px;
+	content: '\201D';
+	font: normal 700 normal 60px/1 'Arial';
+	opacity: .25;
+}
+
+body.rtl .wp-block-pullquote:before,
+body.rtl .wp-block-quote:before {
+	right: 15px;
+	left: auto;
+}
+
+body .wp-block-button .wp-block-button__link {
+	border-radius: 3px;
+}

@@ -1,0 +1,16 @@
+
+.flo-social-question:before { content: '\e800'; } /* '' */
+.flo-social-sync:before { content: '\e801'; } /* '' */
+.flo-social-master:before { content: '\e803'; } /* '' */
+.flo-social-restart:before { content: '\e804'; } /* '' */
+.flo-social-error:before { content: '\e805'; } /* '' */
+.flo-social-info:before { content: '\e806'; } /* '' */
+.flo-social-close:before { content: '\e807'; } /* '' */
+.flo-social-percents:before { content: '\e808'; } /* '' */
+.flo-social-dropdown:before { content: '\e809'; } /* '' */
+.flo-social-search:before { content: '\e80a'; } /* '' */
+.flo-social-add:before { content: '\e80c'; } /* '' */
+.flo-social-share:before { content: '\e80d'; } /* '' */
+.flo-social-ok:before { content: '\e80e'; } /* '' */
+.flo-social-delete:before { content: '\e80f'; } /* '' */
+.flo-social-instagram:before { content: '\f16d'; } /* '' */

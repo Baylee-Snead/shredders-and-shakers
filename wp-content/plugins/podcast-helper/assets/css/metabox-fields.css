@@ -1,0 +1,191 @@
+/*
+ * Style metabox fields for the episode settings
+ */
+
+.podcast-metabox-field {
+	margin: 2em 0;
+}
+
+.podcast-metabox-label,
+.podcast-metabox-input {
+	display: inline-block;
+	vertical-align: top;
+	width: 100%;
+}
+
+.podcast-metabox-label {
+	margin-bottom: 1em;
+}
+
+.podcast-metabox-input select,
+.podcast-metabox-input input[type="text"],
+.podcast-metabox-input input[type="url"],
+.podcast-metabox-input input[type="number"] {
+	min-width: 13em;
+	max-width: 100%;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input ul {
+	margin: 0;
+	overflow: hidden;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li {
+	position: relative;
+	float: left;
+	width: 120px;
+	height: 120px;
+	margin: 0 10px 10px 0;
+	padding: 3px;
+	border: 1px solid #eee;
+	background: #fff;
+	text-align: center;
+	cursor: move;
+	-moz-box-shadow: 0 1px 1px rgba( 0, 0, 0, 0.05 );
+	-webkit-box-shadow: 0 1px 1px rgba( 0, 0, 0, 0.05 );
+	box-shadow: 0 1px 1px rgba( 0, 0, 0, 0.05 );
+}
+
+.rtl .podcast-metabox-field-images .podcast-metabox-input li {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li.ui-sortable-helper {
+	opacity: 0.9;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li.ui-state-highlight {
+	border-style: dotted;
+	border-color: #c7c189;
+	background-color: #fffce5;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li img {
+	width: 100%;
+	height: auto;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a {
+	position: absolute;
+	top: 0;
+	background-color: #fff;
+	font-weight: 400;
+	line-height: 25px;
+	text-decoration: none;
+	display: inline-block;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a.podcast-edit-image {
+	visibility: hidden;
+	opacity: 0;
+	-moz-transition: visibility 0.2s, opacity 0.2s;
+	-webkit-transition: visibility 0.2s, opacity 0.2s;
+	transition: visibility 0.2s, opacity 0.2s;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li:hover a.podcast-edit-image {
+	visibility: visible;
+	opacity: 1;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li.ui-sortable-helper a, .podcast-metabox-field-images .podcast-metabox-input li.ui-sortable-helper a {
+	display: none !important;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a.podcast-edit-image {
+	left: 0;
+	padding: 0 6px;
+	font-size: 12px;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a.podcast-delete-image {
+	right: 0;
+	color: #a00;
+	width: 25px;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a.podcast-delete-image:after {
+	content: "\f158";
+	font: 400 16px/25px dashicons;
+	speak: none;
+	vertical-align: middle;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.podcast-metabox-field-images .podcast-metabox-input li a.podcast-delete-image:hover {
+	color: #f00;
+}
+
+.podcast-metabox-field-episode p {
+	margin-top: 0;
+}
+
+.podcast-metabox-field-episode p.no-bottom {
+	margin-bottom: 0;
+}
+
+@media (min-width: 620px) {
+	.podcast-metabox-label {
+		width: 28%;
+		margin-bottom: 0;
+		line-height: 1.2;
+		max-width: 18em;
+	}
+
+	.podcast-metabox-label ~ .podcast-metabox-input {
+		width: 70%;
+		padding-left: 1%;
+	}
+
+	.rtl .podcast-metabox-label ~ .podcast-metabox-input {
+		padding-right: 1%;
+		padding-left: 0;
+	}
+
+	.podcast-metabox-field-select .podcast-metabox-label,
+	.podcast-metabox-field-input .podcast-metabox-label,
+	.podcast-metabox-field-episode .podcast-metabox-label {
+		padding-top: 0.4em;
+	}
+
+	.podcast-metabox-field-checkbox .podcast-metabox-input {
+		padding-top: 0.2em;
+	}
+
+	.podcast-metabox-field-checkbox .podcast-metabox-label {
+		padding-top: 0.15em;
+	}
+
+	.podcast-metabox-field-images .podcast-metabox-label {
+		padding-top: 0.35em;
+	}
+
+	.podcast-metabox-field-color .podcast-metabox-label {
+		padding-top: 0.25em;
+	}
+
+	.podcast-metabox-field-color .podcast-metabox-input {
+		min-height: 30px;
+	}
+}
+
+@media (min-width: 820px) {
+	.podcast-metabox-label {
+		width: 25%;
+		margin-bottom: 0;
+		line-height: 1.2;
+		max-width: 18em;
+	}
+
+	.podcast-metabox-label ~ .podcast-metabox-input {
+		width: 73%;
+		padding-left: 1%;
+	}
+
+	.rtl .podcast-metabox-label ~ .podcast-metabox-input {
+		padding-right: 1%;
+		padding-left: 0;
+	}
+}

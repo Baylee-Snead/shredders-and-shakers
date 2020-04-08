@@ -1,0 +1,1048 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Castilo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-06 19:49+0300\n"
+"Last-Translator: Liviu Cerchez\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,"
+"_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"PO-Revision-Date: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:27
+#, php-format
+msgid "Comments (%s)"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comments navigation"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:25
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:26
+msgid "Social Links Menu"
+msgstr ""
+
+#: ../functions.php:125
+msgid "Default Header Image"
+msgstr ""
+
+#: ../functions.php:196
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:198
+msgid ""
+"Add widgets here to appear in your sidebar on pages like blogs, "
+"archives or episode listings."
+msgstr ""
+
+#: ../functions.php:208
+msgid "Home Sidebar"
+msgstr ""
+
+#: ../functions.php:210
+msgid ""
+"Add widgets here to appear in your sidebar on the Home template > "
+"Browse Episodes section."
+msgstr ""
+
+#: ../functions.php:220
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:222 ../functions.php:234
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: ../functions.php:232
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:266
+msgid "Read more"
+msgstr ""
+
+#: ../functions.php:293
+msgctxt "Oswald and Karla fonts: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:330
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:331
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:333
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:351
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to "
+"ensure maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version "
+"to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural ""
+"There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:363
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural ""
+"The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural ""
+"The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:374
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:379
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:384
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:388
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:389
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:390
+#: ../inc/class-tgm-plugin-activation.php:3211
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:391
+#: ../inc/class-tgm-plugin-activation.php:3004
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:395
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this "
+"theme. Please update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:398
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+msgid ""
+"There are one or more required or recommended plugins to install, "
+"update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:400
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:638
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:941
+msgid ""
+"The remote plugin package does not contain a folder with the "
+"desired slug and renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:941
+#: ../inc/class-tgm-plugin-activation.php:951
+msgid ""
+"Please contact the plugin provider and ask them to package their "
+"plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:951
+msgid ""
+"The remote plugin package consists of more than one file, but the "
+"files are not packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1142
+#: ../inc/class-tgm-plugin-activation.php:3000
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2013
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2322
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2325
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2341
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2344
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2347
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2364
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2368
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2370
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2376
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2379
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2382
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2391
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2437
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2441
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2445
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2449
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:2531
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2539
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2547
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2559
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2582
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2596
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2597
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2598
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2602
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2603
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2652
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2657
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2663
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2735
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2768
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2774
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2777
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2808
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2810
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2851
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2853
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2960
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2986
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3210
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3504
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid ""
+"An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3513
+msgid ""
+"The installation and activation process is starting. This process "
+"may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3518
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3521
+msgid ""
+"The installation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3524
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3526
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3531
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3531
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/customizer.php:41
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/customizer.php:53
+msgid "Overlay Opacity"
+msgstr ""
+
+#: ../inc/customizer.php:54
+msgid "Control the overlay opacity (to make text easier to read)."
+msgstr ""
+
+#: ../inc/customizer.php:71
+msgid "Additional Options"
+msgstr ""
+
+#: ../inc/customizer.php:82
+msgid "Sticky Top Menu"
+msgstr ""
+
+#: ../inc/customizer.php:95
+msgid "Avoid Image Multiply Effect"
+msgstr ""
+
+#: ../inc/customizer.php:108
+msgid "Disable Episode Download Button"
+msgstr ""
+
+#: ../inc/customizer.php:121
+msgid "Load Default Theme Fonts"
+msgstr ""
+
+#: ../inc/customizer.php:122
+msgid ""
+"Uncheck if you want to use your own typography (maybe by using a "
+"specialized plugin)."
+msgstr ""
+
+#: ../inc/customizer.php:134
+msgid "Featured Image Padding"
+msgstr ""
+
+#: ../inc/customizer.php:135
+msgid "Additional top and bottom padding for the featured area."
+msgstr ""
+
+#: ../inc/customizer.php:151
+msgid "Header Call to Action"
+msgstr ""
+
+#: ../inc/customizer.php:164
+msgid "Sticky Footer"
+msgstr ""
+
+#: ../inc/customizer.php:178
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../inc/customizer.php:187
+msgid "Footer Banner"
+msgstr ""
+
+#: ../inc/customizer.php:196
+msgid "Cover Image"
+msgstr ""
+
+#: ../inc/customizer.php:206
+msgid "Content"
+msgstr ""
+
+#: ../inc/customizer.php:217
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/customizer.php:228
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: ../inc/customizer.php:229
+msgid ""
+"Control the banner overlay opacity to make text easier to read."
+msgstr ""
+
+#: ../inc/setup.php:26
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/setup.php:200
+msgid "Toggle child menu"
+msgstr ""
+
+#: ../inc/setup.php:311
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/setup.php:314
+msgid "Older Entries"
+msgstr ""
+
+#: ../inc/setup.php:317
+msgid "Newer Entries"
+msgstr ""
+
+#: ../inc/setup.php:329 ../inc/woocommerce-config.php:81
+msgid "Page "
+msgstr ""
+
+#: ../inc/setup.php:330
+msgid "Previous Page"
+msgstr ""
+
+#: ../inc/setup.php:331
+msgid "Next Page"
+msgstr ""
+
+#: ../inc/setup.php:334
+#: ../template-parts/page/content-page-home.php:51
+#: ../template-parts/page/content-page-home.php:121
+msgid "Browse More"
+msgstr ""
+
+#: ../inc/setup.php:538 ../inc/setup.php:556
+msgid "Page Category"
+msgstr ""
+
+#: ../inc/setup.php:538
+msgid ""
+"You can filter the posts displayed by this page using a specific "
+"category. This feature offers the possibility of creating multiple "
+"such pages; each one having different topics."
+msgstr ""
+
+#: ../inc/setup.php:540
+msgid "Use Featured Image"
+msgstr ""
+
+#: ../inc/setup.php:540
+msgid ""
+"By default, the Featured Image set in the Customizer is displayed "
+"in the header section. You can choose to override it with the "
+"post's Featured Image field."
+msgstr ""
+
+#: ../inc/setup.php:577
+msgid "Episodes Category"
+msgstr ""
+
+#: ../inc/setup.php:591
+msgid ""
+"Filter the episodes displayed in the Browse Episodes section "
+"(using this parent category)."
+msgstr ""
+
+#: ../inc/setup.php:603
+msgid "Episodes Count"
+msgstr ""
+
+#: ../inc/setup.php:607
+msgid ""
+"Set the number of episodes displayed in the Browse Episodes "
+"section (from the category selected above)."
+msgstr ""
+
+#: ../inc/setup.php:613
+msgid "Episodes Page"
+msgstr ""
+
+#: ../inc/setup.php:625
+msgid ""
+"Display a \"Browse More\" button linking to the Episodes page."
+msgstr ""
+
+#: ../inc/setup.php:632
+msgid "Hide News Section"
+msgstr ""
+
+#: ../inc/setup.php:636
+msgid ""
+"Check this option if you don't need to display the News section."
+msgstr ""
+
+#: ../inc/setup.php:644
+msgid "News Category"
+msgstr ""
+
+#: ../inc/setup.php:658
+msgid ""
+"Filter the posts displayed in the Latest News section (using this "
+"parent category)."
+msgstr ""
+
+#: ../inc/setup.php:665
+msgid "News Background Image"
+msgstr ""
+
+#: ../inc/setup.php:668
+msgid "Select Background Image File"
+msgstr ""
+
+#: ../inc/setup.php:668
+msgid "Select File"
+msgstr ""
+
+#: ../inc/setup.php:675
+msgid "News Background Overlay Opacity"
+msgstr ""
+
+#: ../inc/setup.php:679
+msgid ""
+"Set overlay opacity for the above background image, for better "
+"text readability (default is 75%)."
+msgstr ""
+
+#: ../inc/setup.php:685
+msgid "News Page"
+msgstr ""
+
+#: ../inc/setup.php:697
+msgid "Display a \"Browse More\" button linking to the Blog page."
+msgstr ""
+
+#: ../inc/setup.php:706
+msgid "Instagram Username"
+msgstr ""
+
+#: ../inc/setup.php:710
+msgid ""
+"Set the profile username for the \"Latest Instagram\" section "
+"(leave empty to hide it)."
+msgstr ""
+
+#: ../inc/setup.php:719
+msgid "Use Latest Episode Featured Image"
+msgstr ""
+
+#: ../inc/setup.php:722
+msgid ""
+"Use the featured image of the latest episode for the featured area"
+msgstr ""
+
+#: ../inc/setup.php:729
+msgid "Don't Use Featured Image"
+msgstr ""
+
+#: ../inc/setup.php:732
+msgid ""
+"Avoid using the featured image of this post for the featured area"
+msgstr ""
+
+#: ../inc/setup.php:740
+msgid "Featured Area Subtitle"
+msgstr ""
+
+#: ../inc/setup.php:753
+msgid ""
+"Optional text displayed on the right side of the featured area "
+"section."
+msgstr ""
+
+#: ../inc/setup.php:762
+msgid "Featured Area Additional Text"
+msgstr ""
+
+#: ../inc/setup.php:775
+msgid "Optional text displayed after the header episode player."
+msgstr ""
+
+#: ../inc/setup.php:783
+msgid "Featured Area Custom Text"
+msgstr ""
+
+#: ../inc/setup.php:796
+msgid ""
+"Replace the featured area text with custom HTML/shortcode based "
+"code."
+msgstr ""
+
+#: ../inc/setup.php:990
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/setup.php:1016
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/setup.php:1026
+msgid "Edit"
+msgstr ""
+
+#: ../inc/setup.php:1028
+msgid "Reply"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:31
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:33
+msgid ""
+"Add widgets here to appear in your sidebar on WooCommerce shop "
+"pages."
+msgstr ""
+
+#: ../inc/woocommerce-config.php:82
+msgid "Previous"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:83
+#: ../template-parts/post/meta-related.php:26
+msgid "Next"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:166
+msgid "Out of stock"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:249
+msgid "View Shopping Cart"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:249
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:354
+msgid "Save up to "
+msgstr ""
+
+#: ../inc/woocommerce-config.php:362
+msgid "Save "
+msgstr ""
+
+#: ../inc/woocommerce-config.php:380 ../searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:380
+msgid "Search products&hellip;"
+msgstr ""
+
+#: ../inc/woocommerce-config.php:380
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../template-parts/header/featured-part-404.php:12
+msgid "Error"
+msgstr ""
+
+#: ../template-parts/header/featured-part-404.php:13
+msgid "Apologies, but no results were found for the requested page."
+msgstr ""
+
+#: ../template-parts/header/featured-part-404.php:14
+msgid "Go Home"
+msgstr ""
+
+#: ../template-parts/header/featured-part-episode.php:6
+#: ../template-parts/header/featured-part-single.php:6
+#: ../template-parts/post/home-episode.php:6
+#: ../template-parts/post/listing-content.php:6
+msgid ", "
+msgstr ""
+
+#: ../template-parts/header/featured-part-episode.php:20
+#: ../template-parts/header/featured-part-episode.php:28
+#: ../template-parts/header/featured-part-single.php:21
+#: ../template-parts/post/content-audio.php:13
+#: ../template-parts/post/content-episode.php:14
+#: ../template-parts/post/content-gallery.php:13
+#: ../template-parts/post/content-image.php:13
+#: ../template-parts/post/content-link.php:22
+#: ../template-parts/post/content-video.php:13
+#: ../template-parts/post/content.php:13
+#: ../template-parts/post/home-episode.php:54
+#: ../template-parts/post/home-episode.php:59
+#: ../template-parts/post/home-post.php:13
+#: ../template-parts/post/listing-content.php:54
+#: ../template-parts/post/listing-content.php:59
+#: ../template-parts/post/meta-share-categories.php:23
+msgid "Posted in:"
+msgstr ""
+
+#: ../template-parts/header/featured-part-episode.php:58
+#: ../template-parts/post/content-episode.php:102
+#, php-format
+msgid "Download Episode%s"
+msgstr ""
+
+#: ../template-parts/header/featured-part-episode.php:58
+#: ../template-parts/post/content-episode.php:57
+#: ../template-parts/post/content-episode.php:106
+#: ../template-parts/post/listing-content.php:90
+msgid "View Transcript"
+msgstr ""
+
+#: ../template-parts/header/featured-part-page-home.php:12
+msgid "Latest Episode"
+msgstr ""
+
+#: ../template-parts/header/featured-part-page-shop.php:13
+#: ../template-parts/header/featured-part-page.php:41
+msgid "Search Results"
+msgstr ""
+
+#: ../template-parts/header/featured-part-page-shop.php:19
+#: ../template-parts/header/featured-part-page.php:47
+#, php-format
+msgid "Looking for the %s term."
+msgstr ""
+
+#: ../template-parts/header/featured-part-page.php:55
+msgid "Latest Posts"
+msgstr ""
+
+#: ../template-parts/header/featured-part-page.php:62
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../template-parts/header/featured-part-single.php:16
+msgid "Posted by:"
+msgstr ""
+
+#: ../template-parts/navigation/navigation-mobile.php:10
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:34
+msgid "Browse"
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:37
+msgid "Episodes"
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:57
+msgid "No episodes were found in the selected category."
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:95
+msgid "Latest"
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:98
+msgid "News"
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:125
+msgid "No posts were found in the selected category."
+msgstr ""
+
+#: ../template-parts/page/content-page-home.php:147
+#: ../template-parts/page/content-page.php:22
+#: ../template-parts/post/meta-footer.php:13
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../template-parts/page/content-page.php:15
+#: ../template-parts/post/content-audio.php:61
+#: ../template-parts/post/content-episode.php:135
+#: ../template-parts/post/content-gallery.php:51
+#: ../template-parts/post/content-image.php:45
+#: ../template-parts/post/content-link.php:54
+#: ../template-parts/post/content-video.php:53
+#: ../template-parts/post/content.php:45
+msgid "Pages"
+msgstr ""
+
+#: ../template-parts/post/content-audio.php:54
+#: ../template-parts/post/content-episode.php:128
+#: ../template-parts/post/content-gallery.php:44
+#: ../template-parts/post/content-image.php:38
+#: ../template-parts/post/content-link.php:47
+#: ../template-parts/post/content-video.php:46
+#: ../template-parts/post/content.php:38
+#, php-format
+msgid ""
+"Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../template-parts/post/content-episode.php:57
+#: ../template-parts/post/home-episode.php:91
+#: ../template-parts/post/listing-content.php:90
+#, php-format
+msgid "Download Episode (%s)"
+msgstr ""
+
+#: ../template-parts/post/content-episode.php:100
+msgid "View Original Video"
+msgstr ""
+
+#: ../template-parts/post/content-episode.php:107
+msgid "Play Episode"
+msgstr ""
+
+#: ../template-parts/post/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/post/content-none.php:30
+msgid "Ready to publish your first entry?"
+msgstr ""
+
+#: ../template-parts/post/content-none.php:32
+msgid "Get started here"
+msgstr ""
+
+#: ../template-parts/post/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../template-parts/post/home-episode.php:91
+msgid "Download Transcript"
+msgstr ""
+
+#: ../template-parts/post/meta-author.php:24
+msgid "Published by"
+msgstr ""
+
+#: ../template-parts/post/meta-related.php:21
+msgid "Prev"
+msgstr ""

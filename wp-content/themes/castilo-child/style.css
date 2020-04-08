@@ -1,0 +1,15 @@
+/*
+Theme Name:   Castilo Child
+Theme URI:    http://example.com/castilo-child/
+Description:  Castilo Child Theme - Castilo
+Author:   	Baylee Snead
+Author URI:   http://example.com
+Template: 	castilo
+Version:      2.0.0
+Tags:     	light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  castilo-child
+*/
+
+body {
+  background-color: red;
+}
